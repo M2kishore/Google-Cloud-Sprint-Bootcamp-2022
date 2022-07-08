@@ -1,2 +1,3 @@
-# Linux-Shell-Script
-A collection on shell scrips for simple tasks to be done
+# Google cloud Sprint Bootcamp 2022
+A collection assignmets and case studies done in the bootcamp
+
